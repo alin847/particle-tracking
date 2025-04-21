@@ -1,7 +1,7 @@
 # particle-tracking
 
 ## Description
-A modified linear assignment problem based single-particle tracking algorithm from [Jaqaman et al. (2008)]([doi.org/10.1016/S0031-3203(01)00127-3](https://doi.org/10.1038/nmeth.1237)). In short, this algorithm considers both spatial distance and particle intensity to predict a particle's track, which allows for higher accuracy. Additionally, the algorithm has been optimized for efficiency. For more details, please read [methods](method.pdf). 
+A modified linear assignment problem based single-particle tracking algorithm from [Jaqaman et al. (2008)]([doi.org/10.1016/S0031-3203(01)00127-3](https://doi.org/10.1038/nmeth.1237)). In short, this algorithm considers both spatial distance and particle intensity to predict a particle's track, which allows for higher accuracy. Additionally, the algorithm has been optimized for efficiency. For more details, please read [methods](method.pdf). For an example tracking, please refer to the following [gif](example/tracked_simulation.gif).
 
 
 ## Procedure
